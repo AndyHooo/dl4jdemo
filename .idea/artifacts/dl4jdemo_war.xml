@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dl4jdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dl4j-demo.war">
+      <element id="artifact" artifact-name="dl4jdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
